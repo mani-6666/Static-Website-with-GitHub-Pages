@@ -4,7 +4,7 @@ This is a simple and engaging quiz application hosted on **GitHub Pages**. The a
 
 ## 🌐 Live Demo
 
-[Checkout My Portfolio website](https://mani-6666.github.io/portfolio-website/)
+[Checkout My Portfolio website](https://mani-6666.github.io/Static-Website-with-GitHub-Pages/)
 
 ---
 
@@ -49,7 +49,7 @@ The application was deployed as a static website using **GitHub Pages**. Here's 
      git add .
      git commit -m "Initial commit - personal portfolio website"
      git branch -M main
-     git remote add origin https://github.com/mani-6666/portfolio-website.git
+     git remote add origin https://github.com/mani-6666/Static-Website-with-GitHub-Pages.git
      git push -u origin main
      ```
 
@@ -61,7 +61,7 @@ The application was deployed as a static website using **GitHub Pages**. Here's 
 ### 4. **View Live Site**
    - Website is accessible at:
      ```
-     https://mani-6666.github.io/portfolio-website/
+     https://mani-6666.github.io/Static-Website-with-GitHub-Pages/
      ```
 
 ### 5. **Update Anytime**
